@@ -26,9 +26,11 @@
 </div>
 
 ```text
-> Linux / fully proficient at it, using ZSH for everything.
+> Linux / fully proficient at it, have customized many VPS instances.
 > NVIM / my old go to editor.
 > Micro / my current editor, way lighter and no configs.
+> ZSH / my terminal of choice.
+> Git / self explanatory.
 > Postgres / my database of choice, works for everything.
 > Tailwind / who does raw CSS in 2025.
 > Cloudflare / have deployed websites/webapps before.

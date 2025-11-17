@@ -30,6 +30,7 @@
 > NVIM / my old go to editor.
 > Micro / my current editor, way lighter and no configs.
 > Postgres / my database of choice, works for everything.
+> Tailwind / who does raw CSS in 2025.
 ```
 
 <div align="center">
@@ -39,5 +40,9 @@
 </div>
 
 ```text
-
+> Too much
 ```
+
+<br>
+
+<h6>P.S Been active in this space for a while now, wanted to finally make an "official" page. </h6>

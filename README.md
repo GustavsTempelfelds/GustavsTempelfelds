@@ -31,6 +31,7 @@
 > Micro / my current editor, way lighter and no configs.
 > Postgres / my database of choice, works for everything.
 > Tailwind / who does raw CSS in 2025.
+> Cloudflare / have deployed websites/webapps before.
 ```
 
 <div align="center">

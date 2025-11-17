@@ -1,21 +1,43 @@
 <div align="center">
-
-# 🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑
-# __S Q U I D I N G   A W A Y Y Y Y Y__
+  
 # 🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑
 
-<img src="https://i.imgur.com/0J1bC3k.gif" width="400"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=F700A3&center=true&vCenter=true&width=435&lines=S+Q+U+I+D+I+N+G">
 
-### :squid: What do i know?
+# 🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑🦑
+### :squid: What Languages do i know?
 
 </div>
 
+```text
+> C / ESP32|Linux|Binaries, overall favorite Language.
+> Javascript / Node|React|NextJS, my go-to language for Webdev or doing anything else with Node.
+> Java / Dreambot, i used to experiment with Old School Runescape Bot scripting and running.
+> Python / CLI Tools|Web Scraping, i used to build cli scripts to extract prices from TF2 item markets.
+> Posix SH / My go-to language for Linux shell scripting, as it is the "universal" one.
+> C++ / I have built VST3 audio plugins for DAWS such as Fl Studio using the JUCE framework.
+> SQL / I regurarily use Postgres, and sometimes SQLite.
+```
+
+<div align="center">
+  
+### :squid: What tech do i know?
+
+</div>
 
 ```text
-> Experience in C / ESP32|Linux|Binaries, overall favorite Language.
-> Experience in Javascript / Node|React|NextJS, my go-to language for Webdev or doing anything else with Node.
-> Experience in Java / Dreambot, i used to experiment with Old School Runescape Bot scripting and running.
-> Experience in Python / CLI Tools|Web Scraping, i used to build cli scripts to extract prices from TF2 item markets.
-> Experience in Posix SH / My go-to language for Linux shell scripting, as it is the "universal" one.
-> Experience in C++ / I have built basic VST3 audio plugins for DAWS such as Fl Studio using the JUCE framework.
+> Linux / fully proficient at it, using ZSH for everything.
+> NVIM / my old go to editor.
+> Micro / my current editor, way lighter and no configs.
+> Postgres / my database of choice, works for everything.
+```
+
+<div align="center">
   
+### :squid: What else do i know?
+
+</div>
+
+```text
+
+```

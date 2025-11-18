@@ -10,13 +10,13 @@
 </div>
 
 ```text
-> C / ESP32|Linux|Binaries, overall favorite Language.
+> C / ESP32|Linux|Binaries, overall favorite language.
 > Javascript / Node|React|NextJS, my go-to language for Webdev or doing anything else with Node.
 > Java / Dreambot, i used to experiment with Old School Runescape Bot scripting and running.
 > Python / CLI Tools|Web Scraping, i used to build cli scripts to extract prices from TF2 item markets.
 > Posix SH / My go-to language for Linux shell scripting, as it is the "universal" one.
 > C++ / I have built VST3 audio plugins for DAWS such as Fl Studio using the JUCE framework.
-> SQL / I regurarily use Postgres, and sometimes SQLite.
+> SQL / I regularly use Postgres, and sometimes SQLite.
 ```
 
 <div align="center">
@@ -30,10 +30,10 @@
 > NVIM / my old go to editor.
 > Micro / my current editor, way lighter and no configs.
 > ZSH / my terminal of choice.
-> Git / self explanatory.
+> Git / what i use for all my projects.
 > Postgres / my database of choice, works for everything.
 > Tailwind / who does raw CSS in 2025.
-> Cloudflare / have deployed websites/webapps before.
+> Cloudflare / have deployed websites/apps before.
 ```
 
 <div align="center">
@@ -49,3 +49,5 @@
 <br>
 
 <h6>P.S Been active in this space for a while now, wanted to finally make an "official" page. </h6>
+
+![](https://komarev.com/ghpvc/?username=GustavsTempelfelds&color=grey)

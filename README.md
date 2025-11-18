@@ -26,7 +26,7 @@
 </div>
 
 ```text
-> Linux / fully proficient at it, have customized many VPS instances.
+> Linux / proficient at it, have customized many VPS instances.
 > NVIM / my old go to editor.
 > Micro / my current editor, way lighter and no configs.
 > ZSH / my terminal of choice.
